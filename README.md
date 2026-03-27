@@ -23,7 +23,6 @@
 ---
 ## Credits: Built with Python, using the rembg library and Pillow.
 ---
-## License and credits
 • 	License: MIT
 ---
-**By - Rafe Khan**
+**Built BY :- Rafe Khan**
